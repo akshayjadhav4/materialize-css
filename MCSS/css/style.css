@@ -1,0 +1,51 @@
+body{
+    font-family: 'Bree Serif', serif;
+}
+.nav-wrapper{
+    background-color: #6f4037;
+}
+
+.brand-logo{
+    margin-left: 33px;
+    font-family: 'Pacifico', cursive;
+}
+
+.slider .indicators .indicator-item.active {
+    background-color: #6f4037;
+}
+
+
+.description img{
+    object-fit: contain;
+
+}
+
+
+.move{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+.parallax-container{
+    min-height: 380px;
+    height: auto;
+}
+
+
+.icon-coffee{
+    color: #6f4037;
+}
+
+
+.footer-one{
+    background-color: #6f4037;
+}
+
+
+
+.footer-two {
+    background-color: #462924;
+}
+
+
